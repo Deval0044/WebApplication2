@@ -113,6 +113,7 @@
   <ItemGroup>
     <Content Include="img\1621.webp" />
     <Content Include="img\Parkin-Dreams-1.webp" />
+    <Content Include="App_Data\.gitkeep" />
     <None Include="packages.config" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
